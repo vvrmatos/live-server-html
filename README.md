@@ -1,2 +1,2 @@
-# live-server-html
+# Live HTML Server
 This is a simple Python script to watch over a given file and update as it is being edited
